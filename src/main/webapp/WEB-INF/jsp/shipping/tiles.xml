@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN" "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+
+<tiles-definitions>
+
+	<definition name="/shipping/shipmentsList" extends="layout">
+		<put-attribute name="content" value="/WEB-INF/jsp/shipping/shipmentsList.jsp" />
+		<put-list-attribute name="additionalCss">
+			<add-attribute value="shipping/shipmentsList.css" />
+		</put-list-attribute>
+		<put-list-attribute name="additionalJs">
+			<add-attribute value="shipping/shipmentsList.js" />
+		</put-list-attribute>
+	</definition>
+
+</tiles-definitions>
