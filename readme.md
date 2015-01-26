@@ -1,7 +1,7 @@
 <div xmlns="http://www.w3.org/1999/xhtml" class="psdescription" id="wikicontent">
 
 <h1><a name="Another_DDD_and_CqRS_Sample?"/>Another DDD and CQRS Sample?<a class="section_anchor" href="#Another_DDD_and_CqRS_Sample?"/></h1>
-<p><b>Note:</b> This Git repository is a just a verbatim conversion from the SVN repository located 
+<p><b>Note:</b> This Git repository is just a verbatim conversion from the SVN repository located 
 at http://code.google.com/p/ddd-cqrs-sample/ .  For the latest updates, please visit the developer's SVN repository.</p>
 <p>Primary goals of this project are the following: </p>
 <ul>
